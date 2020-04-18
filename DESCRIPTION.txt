@@ -1,0 +1,46 @@
+Game Description
+==============
+
+Game Overview
+----------------
+Ground ctrl is a platformer game in which the player must navigate through various obstacles, 
+without dying, in order to reach the end of all 4 levels.
+~~
+RADIO TRANSMISSION: You've probabaly heard the news by now that the great lords, Isaac
+and Thorsten of Pytown, have been abducted- and we've tasked you with their safe return.
+Harnessing the powers of the control alt elites: Jack, Josh, Ryan and Anni, you'll have to 
+navigate through space, sand and snow to save them. 
+P.S. feel free to pick up anything they dropped along the way
+~~
+
+Obstacles
+----------------
+-	Standard block: what most of the map is made up of, the player can stand on these or
+	kick jump off of them
+
+-	Moving block: a standard block that moves about the screen
+
+-	Falling block: a block that will collapse after it has been stood on by the player
+
+-	Fire blocks: will kill the player upon touch
+
+-	Moving fire blocks( Horizontal and Vertical): some fire blocks move horizontally and
+	vertically according to a time based pattern, which can be learnt to avoid collision
+
+
+Player Movements
+----------------
+-	Move left and right
+
+-	Jump
+
+-	Kick jump: when a player jumps into a wall they will be propelled in the opposite direction
+
+
+Controls
+----------------
+-	Right/Left arrow key: move left/right
+
+-	Up arrow key: jump
+
+-	Enter (while in game): pauses gameplay

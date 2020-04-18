@@ -1,0 +1,20 @@
+Student: Ryan Sands
+
+My contribution to this project was namely within the menu.py file and main.py files.
+ 
+My roles and responsibilites can be summarised as follows:
+
+	- Creating the main menu screen and coding this in menu.py
+
+	- Creating the pause screen and coding this in menu.py
+
+	- Creating character avatar artwork, as well as background art
+
+	- Contributing to initial main.py through:
+
+		- Character movement (jumping and left/right) methods
+		- Sourcing and adding background music
+		- Adding jumping sound affects
+
+In addition, I assisted team members in the creation of other main.py properties, such as 
+refining code comments, variable names and optimising general code structure. 
